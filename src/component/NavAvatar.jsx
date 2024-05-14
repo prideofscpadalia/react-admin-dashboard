@@ -19,7 +19,7 @@ export default function NavAvatar() {
 
         <li>
           <a className="dropdown-item d-flex align-items-center" href="users-profile.html">
-            <i className="bi bi-person"></i>
+            <i className="avtar-icn bi bi-person"></i>
             <span>My Profile</span>
           </a>
         </li>
@@ -30,7 +30,7 @@ export default function NavAvatar() {
 
         <li>
           <a href="users-profile.html" className="dropdown-item d-flex align-items-center">
-            <i className="bi bi-gear"></i>
+            <i className="avtar-icn bi bi-gear"></i>
             <span>Account Setting</span>
           </a>
         </li>
@@ -40,7 +40,7 @@ export default function NavAvatar() {
 
         <li>
           <a href="pages-faq.html" className="dropdown-item d-flex align-item-center">
-            <i className="bi bi-question-circle"></i>
+            <i className="avtar-icn bi bi-question-circle"></i>
             <span>Need Help ?</span>
           </a>
         </li>
@@ -51,7 +51,7 @@ export default function NavAvatar() {
 
         <li>
           <a href="#" className="dropdown-item d-flex align-items-center">
-            <i className="bi bi-box-arrow-right"></i>
+            <i className="avtar-icn bi bi-box-arrow-right"></i>
             <span>Sign Out</span>
           </a>
         </li>

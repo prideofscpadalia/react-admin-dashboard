@@ -3,6 +3,7 @@ import "./Nav.css"
 import NavNotice from './NavNotice'
 import NavMessage from './NavMessage'
 import NavAvatar from './NavAvatar'
+import SideBar from './SideBar'
 
 
 export default function Nav() {
@@ -13,6 +14,7 @@ export default function Nav() {
             <NavNotice />
             <NavMessage />
             <NavAvatar />
+           
         </ul>
     </nav>   
   )
