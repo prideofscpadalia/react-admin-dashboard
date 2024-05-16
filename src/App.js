@@ -13,6 +13,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 import './App.css';
 import Header from './component/Header';
 import SideBar from './component/SideBar';
+import Main from './component/Main';
 
 
 
@@ -20,7 +21,8 @@ function App() {
   return (
     <>
       <Header />
-    <SideBar />
+      <SideBar />
+      <Main />
     </>
   );
 }
