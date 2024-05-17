@@ -1,6 +1,13 @@
 import React from 'react'
 import './PageTitle.css'
 export default function PageTitle({ page }) {
+    const inputStyle={
+        width:50,
+        border:"none",
+        outline:"none",
+        textAlign:"center",
+        borderBottom:"1px solid lightgray"
+    }
   return (
     <div className="pagetitle">
         <h1>{page}</h1>
