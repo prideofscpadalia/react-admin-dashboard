@@ -1,0 +1,196 @@
+{
+    "cards":[
+        {
+            "_id":1,
+            "name":"Sales",
+            "icon":"bi bi-cart",
+            "amount":145,
+            "percentage":0.12,
+            "active":true
+        },
+        {
+            "_id":2,
+            "name":"Revenue",
+            "icon":"bi bi-currency-dollor",
+            "amount":3246,
+            "percentage":0.08,
+            "active":false
+        },
+        {
+            "_id":3,
+            "name":"Customer",
+            "icon":"bi bi-people",
+            "amount":1244,
+            "percentage":-0.11,
+            "active":false
+        }
+    ],
+    "news":[
+        {
+            "_id":1,
+            "img":"../assets/items/news-1.jpeg",
+            "title":"Nihil blanditiis at in nihil autem",
+            "subtitle":"Sit recusandae non aspernatur laboriosam , Quia enim eligendi sed ut harum",
+            "category":"abc"
+        },
+        {
+            "_id": 2,
+            "img": "../assets/items/news-2.jpeg",
+            "title": "Doloremque vel distinctio asperiores",
+            "subtitle": "Non atque eius quas consequatur quo recusandae",
+            "category": "def"
+        },
+        {
+            "_id": 3,
+            "img": "../assets/items/news-3.jpeg",
+            "title": "Facere eaque molestiae rerum laudantium",
+            "subtitle": "Temporibus sit dicta ducimus eveniet sed at",
+            "category": "ghi"
+        },
+        {
+            "_id": 4,
+            "img": "../assets/items/news-4.jpeg",
+            "title": "Reprehenderit maiores aperiam minus",
+            "subtitle": "Sint voluptatem velit ex quaerat ipsa reprehenderit",
+            "category": "jkl"
+        },
+        {
+            "_id": 5,
+            "img": "../assets/items/news-5.jpeg",
+            "title": "Quisquam est qui dolorem",
+            "subtitle": "Incidunt consequatur sapiente numquam harum velit",
+            "category": "mno"
+        }
+    ],
+    "topspelling":[
+        {
+            "_id":1,
+            "preview":"../assets/items/product-1.jpeg",
+            "name":"Ut inventore ispa vildj weicvp nullsaha",
+            "price":64,
+            "sold":124
+        },
+        {
+            "_id": 2,
+            "preview": "../assets/items/product-2.jpeg",
+            "name": "Lorem ipsum dolor sit amet consectetur",
+            "price": 45,
+            "sold": 98
+        }, 
+        {
+            "_id": 3,
+            "preview": "../assets/items/product-3.jpeg",
+            "name": "Sed do eiusmod tempor incididunt ut",
+            "price": 79,
+            "sold": 152
+        },
+        {
+            "_id": 4,
+            "preview": "../assets/items/product-4.jpeg",
+            "name": "Ut enim ad minim veniam quis nostrud",
+            "price": 53,
+            "sold": 201
+        },
+        {
+            "_id": 6,
+            "preview": "../assets/items/product-6.jpeg",
+            "name": "Excepteur sint occaecat cupidatat non",
+            "price": 34,
+            "sold": 176
+        }
+    ],
+    "recentsales":[
+        {
+            "_id":1,
+            "number":"#2457",
+            "customer":"Brandon Jacob",
+            "product":"At praesentium minu",
+            "price":64,
+            "status":"Approved"
+        },
+        {
+            "_id": 2,
+            "number": "#2458",
+            "customer": "Lucia Walters",
+            "product": "Consequatur velit unde",
+            "price": 78,
+            "status": "Pending"
+        },
+        {
+            "_id": 3,
+            "number": "#2459",
+            "customer": "Michael Smith",
+            "product": "Facilis porro omnis",
+            "price": 54,
+            "status": "Shipped"
+        },
+        {
+            "_id": 4,
+            "number": "#2460",
+            "customer": "Sophia Johnson",
+            "product": "Voluptatem doloribus",
+            "price": 89,
+            "status": "Approved"
+        },
+        {
+            "_id": 5,
+            "number": "#2461",
+            "customer": "James Williams",
+            "product": "Eos dolorem tempore",
+            "price": 73,
+            "status": "Delivered"
+        },
+        {
+            "_id": 6,
+            "number": "#2462",
+            "customer": "Emma Brown",
+            "product": "Natus quo rerum",
+            "price": 92,
+            "status": "Cancelled"
+        }
+    ],
+    "recentactivity":[
+        {
+            "_id":1,
+            "time":"2 days",
+            "color":"text-warning",
+            "content":"Est sit eum reiciendis exercitationem",
+            "heighlight":""
+        },
+        {
+            "_id": 2,
+            "time": "3 hours",
+            "color": "text-success",
+            "content": "Nemo enim ipsam voluptatem",
+            "highlight": ""
+        },
+        {
+            "_id": 3,
+            "time": "1 day",
+            "color": "text-danger",
+            "content": "Ut enim ad minima veniam",
+            "highlight": ""
+        },
+        {
+            "_id": 4,
+            "time": "5 minutes",
+            "color": "text-primary",
+            "content": "Quis autem vel eum iure reprehenderit",
+            "highlight": ""
+        },
+        {
+            "_id": 5,
+            "time": "4 days",
+            "color": "text-info",
+            "content": "Temporibus autem quibusdam et aut officiis",
+            "highlight": ""
+        },
+        {
+            "_id": 6,
+            "time": "2 hours",
+            "color": "text-muted",
+            "content": "Et harum quidem rerum facilis est et expedita",
+            "highlight": ""
+        }
+    ]
+}

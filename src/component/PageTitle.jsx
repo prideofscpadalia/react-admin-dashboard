@@ -18,7 +18,7 @@ export default function PageTitle({ page }) {
                         <i className="bi bi-house-door"></i>
                     </a>
                 </li>
-                <li className="breadcrumb-item active">Dashboard</li>
+                <li className="breadcrumb-item active">{page}</li>
             </ol>
         </nav>
     </div>
