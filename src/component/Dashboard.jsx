@@ -7,7 +7,7 @@ export default function Dashboard() {
    const [card, setCard] = useState([])
 
    const fetchData = () =>{
-    const baseUrl = "http://localhost:3000/cards";
+    const baseUrl = "http://localhost:3005/cards";
     
     try {
       fetch(baseUrl)
